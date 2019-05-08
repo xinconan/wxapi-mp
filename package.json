@@ -1,0 +1,27 @@
+{
+  "name": "wxapi-mp",
+  "version": "0.0.3",
+  "description": "wechat miniprogram api for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinconan/wxapi-mp.git"
+  },
+  "keywords": [
+    "wechat",
+    "小程序",
+    "Node"
+  ],
+  "author": "xinconan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinconan/wxapi-mp/issues"
+  },
+  "homepage": "https://github.com/xinconan/wxapi-mp#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

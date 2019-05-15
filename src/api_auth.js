@@ -1,4 +1,4 @@
-const axios = require('axios')
+const {http:axios} = require('./utils')
 /**
  * 获取登录凭证
  * @param code wx.login() 生成的

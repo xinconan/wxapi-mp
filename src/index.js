@@ -1,4 +1,3 @@
-const axios = require('axios')
 
 class WxApi{
   constructor(appid, secret) {

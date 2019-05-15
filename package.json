@@ -1,6 +1,6 @@
 {
   "name": "wxapi-mp",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "wechat miniprogram api for Node",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
     "url": "https://github.com/xinconan/wxapi-mp/issues"
   },
   "homepage": "https://github.com/xinconan/wxapi-mp#readme",
+  "types": "types/index.d.ts",
   "dependencies": {
     "axios": "^0.18.0"
   }
